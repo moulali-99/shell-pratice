@@ -6,7 +6,7 @@ if(today !=sunday)
 {
     print "go to school"
 }
-else
+elif
 {
     print "take holiday,enjoy"
 }
