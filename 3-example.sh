@@ -4,9 +4,9 @@ today=wednesday
 
 if(today !=sunday)
 {
-    print "go to school"
-}
-elif
-{
-    print "take holiday,enjoy"
+   print ("go to school")
+}elif{
+  else
+       print ("take holiday,enjoy")
+
 }
