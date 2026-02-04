@@ -5,6 +5,8 @@ read USER_NAME
 
 echo "user name ::$USER_NAME"
 
+sleep 20
+
 echo "enter your password::"
 read -s PASSWORD
 
